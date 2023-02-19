@@ -34,4 +34,5 @@ cacheSolve <- function(x, ...) {
   i
 }
 
-
+set.seed(1)
+rpois(5, 2)
